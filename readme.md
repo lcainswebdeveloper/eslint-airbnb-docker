@@ -24,4 +24,4 @@ Should yield:
 
 `docker run -it --rm -v ${PWD}:/usr/src/app my-airbnb-eslint-image eslint bad-code.js --fix`
 
-### Bad code js file is from Wes Bos from his ES^ for everyone course. Check it out -it's great
+### Bad code js file is from Wes Bos from his ES6 for everyone course. Check it out -it's great
